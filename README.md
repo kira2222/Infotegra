@@ -25,7 +25,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/Infotegra.git
+   git clone https://github.com/Kira2222/Infotegra.git
    cd Infotegra
 
 2. Instala las dependencias de PHP:
@@ -53,7 +53,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 
 7. Ejecuta las migraciones para crear las tablas necesarias:
    ```bash
-   php artisan key:generate
+   php artisan migrate
    
 8. Compila los activos de frontend:
    ```bash
