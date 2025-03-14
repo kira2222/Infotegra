@@ -118,6 +118,8 @@ class ApiComponent extends Component
                 ]
             );
         }
+        $this->dispatch('dataSaved');
+
 
         session()->flash('message', 'Los 100 registros se han guardado en la base de datos.');
     }
