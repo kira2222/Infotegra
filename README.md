@@ -25,7 +25,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/Kira2222/Infotegra.git
+   git clone https://github.com/kira2222/Infotegra.git
    cd Infotegra
 
 2. Instala las dependencias de PHP:
